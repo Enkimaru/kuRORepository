@@ -1,0 +1,5 @@
+//1 2007-11-13data.thor
+//2 2007-11-17palettes.thor
+1 1.thor
+2 2.thor
+2 3.thor
